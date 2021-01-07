@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Table" max_length="40" name="x_560237_fourth_ap_my_table" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element label="First Name" max_length="20" name="first_name" type="string_full_utf8"/>
+        <element label="Last Name" max_length="20" name="last_name" type="string_full_utf8"/>
+        <element label="Add the Adio File " max_length="20" name="lestion_audio" type="audio"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+    </element>
+</database>
